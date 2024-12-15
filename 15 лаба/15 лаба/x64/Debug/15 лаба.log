@@ -1,0 +1,4 @@
+﻿  15 лаба.c
+C:\Users\Любовь\source\repos\15 лаба\15 лаба\15 лаба.c(12,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Любовь\source\repos\15 лаба\15 лаба\15 лаба.c(57,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  15 лаба.vcxproj -> C:\Users\Любовь\source\repos\15 лаба\x64\Debug\15 лаба.exe
